@@ -1,4 +1,4 @@
-# Alphabets-&-shapes-Star-Pattern
+# Alphabets-&-Cardioids-Star-Pattern
 this code prints alphabets, Cardioids and two type of circle in N rows(or with diameter of R)
 in first line of the input detect the type 
 in second line of the input detect the N or R
