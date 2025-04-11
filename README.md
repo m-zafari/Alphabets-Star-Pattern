@@ -9,11 +9,9 @@ Cardiods:
   cu ---> cardiod up
   cr ---> cardiod right
   cl ---> cardiod left
-  \n
 circles: 
   c1 ---> Hollow circle
   c2 ---> Filled circle
-\n
 As an example:
  c1
  9
